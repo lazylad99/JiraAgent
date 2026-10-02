@@ -1,0 +1,5 @@
+anthropic>=1.11
+google-play-scraper>=1.2.7
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
